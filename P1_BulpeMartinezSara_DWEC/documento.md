@@ -122,7 +122,12 @@ Y también podemos añadirlo al final de nuestro código.
   * *IntelliSense*: Permite agilizar la escritura del código gracias a sugerencias de código y terminaciones inteligente, con funciones como autocompletado, resaltado del código, etc.
   * *Depuración*: Esta función nos permite encontrar errores en el código. Además, VSCode también detecta pequeños errores de forma automática sin necesidad de debugear.
   * *Uso de control de versiones*: Tiene compatibilidad con GIT, pudiendo revisar archivos y diferencias de versiones, realizar commits desde el editor, etc.
-* 
+  * *Extensiones*: Cuenta con un amplio abanico de extensiones que añaden funcionalidad y nos permiten personalizarlo.
+* **CHROME DEVTOOLS**: Es una herramienta de desarrollo integrada en el navegador para diagnosticar errores o testear las modificaciones mínimas para visualizándolas en tiempo real.
+* **GIT**: Es un sistema de control de versiones distribuido, diseñado para la eficiencia, confiabilidad y compatibilidad de las diferentes versiones de una aplicación. Algunas de sus características son:
+  * Su capacidad de ramificación.
+  * El desarrollo distribuido, cada desarrollador tiene su propia copia de trabajo. Todas ellas apuntan al repositorio central.
+  * Pull-Request, también conocido como solicitudes de incorporación de cambios.
 
 ## Bibliografía
 
@@ -159,3 +164,9 @@ https://es.wikipedia.org/wiki/HTML
 https://es.wikipedia.org/wiki/CSS
 
 https://openwebinars.net/blog/que-es-visual-studio-code-y-que-ventajas-ofrece/
+
+https://blog.ida.cl/desarrollo/conoce-los-principales-aspectos-chrome-devtools/
+
+https://es.wikipedia.org/wiki/Git
+
+https://www.atlassian.com/es/git/tutorials/why-git#:~:text=Una%20de%20las%20mayores%20ventajas,entre%20muchos%20usuarios%20de%20Git.
