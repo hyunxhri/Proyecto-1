@@ -21,7 +21,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 5. Desventajas de los lenguajes Script.
 6. Tecnologías y Lenguajes Asociados. Integración del Código con las Etiquetas HTML.
 7. Herramientas de Programación.
-8. Bibliografía.
+
 ---
 
 ### **MODELOS DE ARQUITECTURA WEB**
