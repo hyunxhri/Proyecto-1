@@ -64,7 +64,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ## **LENGUAJES DE PROGRAMACIÓN EN ENTORNO CLIENTE**
 
-![Logo JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png) ㅤ![Logo TypeScript](https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp)ㅤㅤ![Logo Python](https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp) 
+![Logo JavaScript](img/javascript.png) ㅤ![Logo TypeScript](img/typescript.png)ㅤㅤ![Logo Python](img/python.png) 
 
 ---
 
@@ -127,7 +127,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ## **HERRAMIENTAS DE PROGRAMACIÓN**
 
-![Logo VSCode](https://code.visualstudio.com/assets/apple-touch-icon.png) ㅤ![Logo Chrome DevTools](https://static-00.iconduck.com/assets.00/chrome-devtools-icon-256x256-s41ravx1.png)ㅤ![width:250px](https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png) 
+![Logo VSCode](img/vscode.png) ㅤ![Logo Chrome DevTools](img/chromedevtools.png)ㅤ![width:250px](img/git.png) 
 
 ---
 
