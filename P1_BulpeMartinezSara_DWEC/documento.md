@@ -51,8 +51,8 @@ Es decir, es la capacidad de hacer que la web funcione correctamente en cualquie
 
 Los lenguajes de programación más comunes en Entorno Cliente son:
 
-* **JavaScript**: Es el lenguaje principal para el desarrollo web en el lado cliente. Entre sus ventajas podemos destacar la velocidad, simplicidad, compatibilidad, etc. JavaScript nos permite realizar webs interactivar y manipular el DOM.
-* **TypeScript**: Es un superconjunto de JavaScript que está pensado para grandes proyectos. TypeScript usa la misma sintaxis que JavaScript sólo que, en este caso, es un lenguaje de alto tipado. Fue el lenguaje predeterminado de Google para desarrollar Angular.
+* **JavaScript**: Es el lenguaje principal para el desarrollo web en el lado cliente. Entre sus ventajas podemos destacar la velocidad, simplicidad, compatibilidad, etc. JavaScript nos permite realizar webs interactivas y manipular el DOM. La interactividad es su punto más fuerte, es decir, hace la web capaz de responder y adaptarse a las acciones del usuario en el momento en el que ocurren.Con la manipulación del DOM podemos cambiar el contenido, el estilo y atributos de los elementos en respuesta a un evento. Por ejemplo, imaginemos que tenemos una página web con una serie de botones. Al hacer click a un botón, podemos añadir estilos diferente a algún otro apartado, como pudiera ser cambiar el color y la fuente del título, o incluso el contenido del título en sí. Gracias Al AJAX (*Asynchronous JavaScript and XML*) permite cargar contenido adicional sin la necesidad de recargar la página en sí. Estas son sólo algunas ventajas de todas las que nos otorga JavaScript, como la amplio repertorio de bibliotecas y frameworks, la comunicación asíncrona con el servidor, etc.
+* **TypeScript**: Es un superconjunto de JavaScript que está pensado para grandes proyectos. TypeScript usa la misma sintaxis que JavaScript sólo que, en este caso, es un lenguaje de alto tipado. Fue el lenguaje predeterminado de Google para desarrollar Angular. Algunas de sus ventajas son: la escalabilidad del código, la validación de los datos durante la ejecución, lo que nos permite una sintaxis mucho más clara, etc.
 * **Python**: Se trata de un lenguaje multiparadigma de código abierto que aunque normalmente se utiliza en servidor, se puede utilizar en el lado cliente mediante WebAssembly. Se utiliza sobretodo para el manejado de datos e Inteligencia Artificial.
 
 ## Características de los Lenguajes de Script. Ventajas y Desventajas
@@ -123,7 +123,7 @@ Y también podemos añadirlo al final de nuestro código.
   * *Depuración*: Esta función nos permite encontrar errores en el código. Además, VSCode también detecta pequeños errores de forma automática sin necesidad de debugear.
   * *Uso de control de versiones*: Tiene compatibilidad con GIT, pudiendo revisar archivos y diferencias de versiones, realizar commits desde el editor, etc.
   * *Extensiones*: Cuenta con un amplio abanico de extensiones que añaden funcionalidad y nos permiten personalizarlo.
-* **CHROME DEVTOOLS**: Es una herramienta de desarrollo integrada en el navegador para diagnosticar errores o testear las modificaciones mínimas para visualizándolas en tiempo real.
+* **CHROME DEVTOOLS**: Es una herramienta de desarrollo integrada en el navegador para diagnosticar errores o testear las modificaciones mínimas visualizándolas en tiempo real.
 * **GIT**: Es un sistema de control de versiones distribuido, diseñado para la eficiencia, confiabilidad y compatibilidad de las diferentes versiones de una aplicación. Algunas de sus características son:
   * Su capacidad de ramificación.
   * El desarrollo distribuido, cada desarrollador tiene su propia copia de trabajo. Todas ellas apuntan al repositorio central.
@@ -155,7 +155,7 @@ https://en.wikipedia.org/wiki/Cross-browser_compatibility
 
 https://www.freecodecamp.org/espanol/news/ventajas-y-desventajas-de-javascript/
 
-https://openwebinars.net/blog/que-es-php/
+https://blog.hubspot.es/website/ventajas-y-desventajas-de-javascript#ventajas
 
 https://www.codesdope.com/blog/article/scripting-language/
 
