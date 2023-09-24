@@ -12,7 +12,19 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-### **Modelos de Arquitectura web**
+# **ÍNDICE**
+
+1. Modelos de Arquitectura web.
+2. Mecanismos de Ejecución de Código en un Navegador Web.
+3. Lenguajes de Programación en Entorno Cliente.
+4. Ventajas de los lenguajes Script.
+5. Desventajas de los lenguajes Script.
+6. Tecnologías y Lenguajes Asociados. Integración del Código con las Etiquetas HTML.
+7. Herramientas de Programación.
+8. Bibliografía.
+---
+
+### **MODELOS DE ARQUITECTURA WEB**
 
 - **Single Page Application (SPA)**
   - Una vez cargada no necesita navegar a otra web.
@@ -23,7 +35,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-### **Modelos de Arquitectura web**
+### **MODELOS DE ARQUITECTURA WEB**
 
 - **Arquitectura Orientada al Servicio(SOA)**
   - Las aplicaciones se dividen en servicios y cada servicio representa una unidad funcional.
@@ -32,7 +44,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-### **Mecanismos de Ejecución de Código en un Navegador Web**
+### **MECANISMOS DE EJECUCIÓN DE CÓDIGO EN UN NAVEGADOR WEB**
 
 - El motor de Javascript ejecuta el código de forma secuencial en cuanto se carga el navegador. Cada navegador tiene su propio motor.
 
@@ -43,20 +55,20 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-### **Mecanismos de Ejecución de Código en un Navegador Web**
+### **MECANISMOS DE EJECUCIÓN DE CÓDIGO EN UN NAVEGADOR WEB**
 
 * La compatibilidad entre navegadores es la capacidad de hacer que la web funcione correctamente en cualquier navegador.
   * Realizar pruebas exhaustivas en una variedad de navegadores y dispositivos, incluyendo también diferentes versiones de cada navegador.
 
 ---
 
-## **Lenguajes de Programación en Entorno Cliente**
+## **LENGUAJES DE PROGRAMACIÓN EN ENTORNO CLIENTE**
 
 ![Logo JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png) ㅤ![Logo TypeScript](https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp)ㅤㅤ![Logo Python](https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp) 
 
 ---
 
-## **Lenguajes de Programación en Entorno Cliente**
+## **LENGUAJES DE PROGRAMACIÓN EN ENTORNO CLIENTE**
 
 - **JavaScript**: Lenguaje principal. Permite crear webs interactivas y manipular el DOM. 
 - **TypeScript**: Misma sintaxis que JavaScript pero siendo un lenguaje de alto tipado.
@@ -64,7 +76,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-### **Características de los Lenguajes de Script. Ventajas y Desventajas**
+### **VENTAJAS DE LOS LENGUAJES SCRIPT**
 
 - **VENTAJAS**
   - Sintaxis simple.
@@ -76,7 +88,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-### **Características de los Lenguajes de Script. Ventajas y Desventajas**
+## **DESVENTAJAS DE LOS LENGUAJES SCRIPT**
 
 - **DESVENTAJAS**
   - El intérprete es más lento que el compilador.
@@ -85,7 +97,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-### **Tecnologías y Lenguajes Asociados. Integración del Código con las Etiquetas HTML**
+#### **TECNOLOGÍAS Y LENGUAJES ASOCIADOS, INTEGRACIÓN DEL CÓDIGO CON LAS ETIQUETAS HTML**
 
 * Con el HTML podemos crear la estructura base de la página web, mientras con el CSS podemos dar forma y personalizar la misma. Usamos JavaScript para hacer dinámica e interactiva nuestra web.
 
@@ -93,7 +105,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 --- 
 
-### **Integración del Código con las Etiquetas HTML**
+### **INTEGRACIÓN DEL CÓDIGO CON LAS ETIQUETAS HTML**
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -113,14 +125,75 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-## **Herramientas de Programación**
+## **HERRAMIENTAS DE PROGRAMACIÓN**
 
 ![Logo VSCode](https://code.visualstudio.com/assets/apple-touch-icon.png) ㅤ![Logo Chrome DevTools](https://static-00.iconduck.com/assets.00/chrome-devtools-icon-256x256-s41ravx1.png)ㅤ![width:250px](https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png) 
 
 ---
 
-## **Herramientas de Programación**
+### **HERRAMIENTAS DE PROGRAMACIÓN**
 
 - **Visual Studio Code (VSCode)**: Es un editor de código fuente multiplataforma, de software libre y que puede utilizarse en diferentes SO.
 - **Chrome DevTools**: Es una herramienta de desarrollo integrada en el navegador para diagnosticar errores o testear las modificaciones mínimas.
 - **GIT**: Es un sistema de control de versiones distribuido, diseñado para la eficiencia, confiabilidad y compatibilidad de las diferentes versiones de una aplicación.
+
+---
+
+# **BIBLIOGRAFÍA**
+
+- https://rockcontent.com/es/blog/arquitectura-web/#:~:text=La%20arquitectura%20web%20es%20la,medio%20para%20ejecutar%20su%20trabajo.
+
+- https://kinsta.com/es/blog/arquitectura-aplicaciones-web/
+
+- https://colorlib.com/wp/spa-websites/
+
+- https://www.simicart.com/blog/progressive-web-apps-examples/
+
+
+---
+
+# **BIBLIOGRAFÍA**
+
+- https://revistacloud.com/ejemplos-de-arquitectura-soa/
+
+- https://openwebinars.net/blog/microservicios-que-son/
+
+- https://www.atatus.com/blog/how-does-javascript-works/#:~:text=The%20JavaScript%20engine%20runs%20each,then%20run%20on%20the%20browser.
+
+- https://openwebinars.net/blog/que-es-ecmascript/
+
+---
+
+# **BIBLIOGRAFÍA**
+
+- https://www.etnassoft.com/2011/05/31/comparativa-entre-los-distintos-motores-ecmascript/
+
+- https://es.wikipedia.org/wiki/JavaScriptCore
+
+- https://en.wikipedia.org/wiki/Cross-browser_compatibility
+
+- https://www.freecodecamp.org/espanol/news/ventajas-y-desventajas-de-javascript/
+
+---
+
+# **BIBLIOGRAFÍA**
+
+- https://blog.hubspot.es/website/ventajas-y-desventajas-de-javascript#ventajas
+
+- https://www.codesdope.com/blog/article/scripting-language/
+
+- https://es.wikipedia.org/wiki/HTML
+
+- https://es.wikipedia.org/wiki/CSS
+
+- https://openwebinars.net/blog/que-es-visual-studio-code-y-que-ventajas-ofrece/
+
+---
+
+# **BIBLIOGRAFÍA**
+
+- https://blog.ida.cl/desarrollo/conoce-los-principales-aspectos-chrome-devtools/
+
+- https://es.wikipedia.org/wiki/Git
+
+- https://www.atlassian.com/es/git/tutorials/why-git#:~:text=Una%20de%20las%20mayores%20ventajas,entre%20muchos%20usuarios%20de%20Git.
