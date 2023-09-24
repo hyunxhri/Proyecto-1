@@ -58,7 +58,8 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ### **MECANISMOS DE EJECUCIÓN DE CÓDIGO EN UN NAVEGADOR WEB**
 
 * La compatibilidad entre navegadores es la capacidad de hacer que la web funcione correctamente en cualquier navegador.
-  * Realizar pruebas exhaustivas en una variedad de navegadores y dispositivos, incluyendo también diferentes versiones de cada navegador.
+
+![width:600px](img/compatibilidad-entre-navegadores.png)
 
 ---
 
